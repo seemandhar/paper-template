@@ -1,0 +1,12 @@
+# Images
+
+Place your figures here. Referenced in index.html as:
+  src="static/images/teaser.png"
+
+Suggested files:
+  teaser.png        — Hero overview figure
+  pipeline.png      — Method pipeline diagram
+  qualitative.png   — Side-by-side visual comparisons
+  method_detail.png — Additional method figures
+
+Recommended: PNG or JPG, 1200–2400px wide for retina displays.

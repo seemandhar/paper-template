@@ -1,0 +1,7 @@
+# Videos
+
+Place your demo video here. Referenced in index.html as:
+  src="static/videos/demo.mp4"
+
+Suggested: MP4 (H.264), under 50MB for fast loading.
+Tip: Use HandBrake or ffmpeg to compress before uploading.

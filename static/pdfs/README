@@ -1,0 +1,5 @@
+# PDFs
+
+Place your paper PDFs here. The buttons in index.html open these in a modal viewer:
+  static/pdfs/paper.pdf
+  static/pdfs/supplementary.pdf
