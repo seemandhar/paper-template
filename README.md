@@ -1,8 +1,8 @@
 # Academic Project Page Template
 
-A clean, responsive, single-page template for computer vision and machine learning research papers. Originally built for [NERFIFY](https://seemandhar.github.io/nerfify) (CVPR 2026).
+A clean, responsive, single-page template for computer vision and machine learning research papers. Originally built for [NERFIFY](https://seemandhar.github.io/NERFIFY) (CVPR 2026).
 
-**[Live Demo](https://seemandhar.github.io/nerfify)** · **[Use This Template](https://github.com/seemandhar/nerfify-template/generate)**
+**[Live Demo](https://seemandhar.github.io/NERFIFY)** · **[Use This Template](https://github.com/seemandhar/paper-template/generate)**
 
 ---
 
@@ -30,7 +30,7 @@ A clean, responsive, single-page template for computer vision and machine learni
 # Click "Use this template" on the repo page
 
 # Option B: Clone directly
-git clone https://github.com/seemandhar/nerfify-template.git my-project-page
+git clone https://github.com/seemandhar/paper-template.git my-project-page
 cd my-project-page
 ```
 
@@ -212,7 +212,7 @@ Cell classes: `cell-highlight` (blue bg), `cell-check` (green ✓), `cell-fail` 
 
 ## Credits
 
-- Originally designed for [NERFIFY](https://seemandhar.github.io/nerfify) (CVPR 2026)
+- Originally designed for [NERFIFY](https://seemandhar.github.io/NERFIFY) (CVPR 2026)
 - Inspired by the [Nerfies](https://nerfies.github.io) project page
 - Template by [Seemandhar Jain](https://seemandhar.github.io)
 
